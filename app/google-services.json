@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "373466801099",
+    "firebase_url": "https://dummyproject-18a7c.firebaseio.com",
+    "project_id": "dummyproject-18a7c",
+    "storage_bucket": "dummyproject-18a7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373466801099:android:c0420e9cd7ccdf14",
+        "android_client_info": {
+          "package_name": "com.clevertap.customhandlingpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373466801099-def7lngsn11u43u1tgljvaa2jccn29rs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clevertap.customhandlingpushnotification",
+            "certificate_hash": "c95bb23a4fc2dd4eb31bfe4337c7c9a974286853"
+          }
+        },
+        {
+          "client_id": "373466801099-rtflmg0buorb4muc05kva9dl68kf2mca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFW8-gKUNF5jGLo5ShG7-E8OPMd3pVdcA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373466801099-rtflmg0buorb4muc05kva9dl68kf2mca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
